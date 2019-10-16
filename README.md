@@ -36,8 +36,8 @@ db.json`.
     </li>
   ```
 
-* Submitting the form creates a new quote and adds it to the list of quotes
-  without having to refresh the page. Pessimistic rendering is reccommended.
+<!-- * Submitting the form creates a new quote and adds it to the list of quotes
+  without having to refresh the page. Pessimistic rendering is reccommended. -->
 
 * Clicking the delete button should delete the respective quote from the
   API and remove it from the page without having to refresh.
